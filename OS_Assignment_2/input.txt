@@ -1,5 +1,3 @@
-Processes: 5
-Number of Resource Types: 3
 Instances: 10 5 7
 Allocation
 0 1 0
