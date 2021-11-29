@@ -3,5 +3,5 @@
 #include <iostream>
 #include <fstream>
 
-int processes;
-int resourceTypes;
+int processes = 5;
+int resourceTypes = 3;

@@ -8,7 +8,7 @@ int main() {
 
 	if (file.is_open()) {
 
-		string line[3];
+		string line[100];
 		for (int i = 0; getline(file, line[i]); i++) {
 			cout << "Getting lines...\n";
 		}
@@ -34,6 +34,7 @@ int main() {
 			instances[i] = stoi(num2);
 		}
 		
+		int Available[resourceTypes];
 
 	}
 	else {
