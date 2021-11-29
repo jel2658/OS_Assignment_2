@@ -1,0 +1,2 @@
+Processes: 5
+Resource Types: A 10 B 5 C 7
